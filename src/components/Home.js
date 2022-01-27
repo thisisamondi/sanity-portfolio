@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import image from "../jean-philippe-delberghe-75xPHEQBmvA-unsplash.jpg";
 
 function Home() {
@@ -6,7 +6,7 @@ function Home() {
         <main>
             <img
                 src={image}
-                alt="abstract image"
+                alt="abstract"
                 className="absolute object-cover w-full h-full"
             />
             <section className="relative flex justify-center min-h-screen pt-12 lg:pt-64 px-8">
