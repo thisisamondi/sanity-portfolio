@@ -31,7 +31,7 @@ function About() {
         <main className="relative ">
             <img
                 src={oslo}
-                alt="image of oslo opera house"
+                alt="oslo opera house"
                 className="absolute w-full"
             />
             <div className="p-10 lg:pt-48 container mx-auto relative">
